@@ -1,0 +1,10 @@
+D:\trabajo de visual studio SISE\Banco\Banco.AppWin\bin\Debug\Banco.AppWin.exe.config
+D:\trabajo de visual studio SISE\Banco\Banco.AppWin\bin\Debug\Banco.AppWin.exe
+D:\trabajo de visual studio SISE\Banco\Banco.AppWin\bin\Debug\Banco.AppWin.pdb
+D:\trabajo de visual studio SISE\Banco\Banco.AppWin\obj\Debug\Banco.AppWin.csproj.AssemblyReference.cache
+D:\trabajo de visual studio SISE\Banco\Banco.AppWin\obj\Debug\Banco.AppWin.csproj.SuggestedBindingRedirects.cache
+D:\trabajo de visual studio SISE\Banco\Banco.AppWin\obj\Debug\Banco.AppWin.Properties.Resources.resources
+D:\trabajo de visual studio SISE\Banco\Banco.AppWin\obj\Debug\Banco.AppWin.csproj.GenerateResource.cache
+D:\trabajo de visual studio SISE\Banco\Banco.AppWin\obj\Debug\Banco.AppWin.csproj.CoreCompileInputs.cache
+D:\trabajo de visual studio SISE\Banco\Banco.AppWin\obj\Debug\Banco.AppWin.exe
+D:\trabajo de visual studio SISE\Banco\Banco.AppWin\obj\Debug\Banco.AppWin.pdb
